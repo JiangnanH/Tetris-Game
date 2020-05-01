@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tetris>
+    <tetris_parametre languagelabel="0" level="2" numberofcarre="4" record="0" score="25">
+        <cell col="6" image="imageZ" row="16"/>
+        <cell col="5" image="imageZ" row="17"/>
+        <cell col="6" image="imageZ" row="17"/>
+        <cell col="5" image="imageZ" row="18"/>
+        <cell col="6" image="imageZ" row="18"/>
+        <cell col="7" image="imageZ" row="18"/>
+        <cell col="0" image="imageJ" row="19"/>
+        <cell col="1" image="imageJ" row="19"/>
+        <cell col="3" image="imageL" row="19"/>
+        <cell col="4" image="imageL" row="19"/>
+        <cell col="5" image="imageL" row="19"/>
+        <cell col="6" image="imageJ" row="19"/>
+        <cell col="7" image="imageZ" row="19"/>
+        <cell col="8" image="imageZ" row="19"/>
+    </tetris_parametre>
+</Tetris>
